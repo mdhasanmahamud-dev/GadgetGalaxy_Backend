@@ -1,0 +1,162 @@
+[
+  {
+    "title": "iPhone 13 Pro",
+    "category": "mobile",
+    "price": 949.99,
+    "brand": "Apple",
+    "description": "6.1-inch Super Retina XDR display, A15 Bionic chip, 12MP pro camera system, 5G support.",
+    "image": "https://i.ibb.co.com/k2DTWK7w/kevin-bhagat-Co-us-Q-kp-O0-unsplash.jpg",
+     "popularity": true,
+    "features": [
+      "Super Retina XDR display",
+      "A15 Bionic chip",
+      "Triple 12MP camera system",
+      "5G connectivity",
+      "Ceramic Shield front"
+    ]
+  },
+  {
+    "title": "Samsung Galaxy S23 Ultra",
+    "category": "mobile",
+    "price": 1199.99,
+    "brand": "Samsung",
+    "description": "6.8-inch QHD+ AMOLED display, Snapdragon 8 Gen 2, 200MP quad camera setup.",
+    "image": "https://i.ibb.co.com/jkVMF13f/bobby-raj-sirimani-lkhz29-AXTTc-unsplash.jpg",
+     "popularity": true,
+    "features": [
+      "6.8-inch AMOLED display",
+      "Snapdragon 8 Gen 2 processor",
+      "200MP camera",
+      "S Pen support",
+      "5000mAh battery"
+    ]
+  },
+  {
+    "title": "MacBook Air M2",
+    "category": "laptop",
+    "price": 1249.99,
+    "brand": "Sony",
+    "description": "13.6-inch Liquid Retina display, Apple M2 chip, 8GB RAM, 256GB SSD, fanless design.",
+    "image": "https://i.ibb.co.com/JWy4fTwG/james-yarema-6-M9b-AK5l4-o-unsplash.jpg",
+     "popularity": true,
+    "features": [
+      "Apple M2 chip",
+      "Fanless design",
+      "13.6-inch Liquid Retina display",
+      "All-day battery life",
+      "MagSafe charging"
+    ]
+  },
+  {
+    "title": "Dell XPS 13",
+    "category": "laptop",
+    "price": 1099.99,
+    "brand": "Dell",
+    "description": "13.4-inch FHD+ display, Intel Core i7, 16GB RAM, 512GB SSD, ultra-slim design.",
+    "image": "https://i.ibb.co.com/JwWrcD53/markus-spiske-if-VZHBYVx1-A-unsplash.jpg",
+     "popularity": true,
+    "features": [
+      "Intel Core i7 processor",
+      "16GB LPDDR4x RAM",
+      "512GB SSD storage",
+      "InfinityEdge display",
+      "Backlit keyboard"
+    ]
+  },
+  {
+    "title": "Logitech G733 Lightspeed",
+    "category": "headphone",
+    "price": 129.99,
+    "brand": "HP",
+    "description": "Wireless RGB gaming headset with LIGHTSPEED technology, Blue VO!CE mic, and comfortable ear pads.",
+    "image": "https://i.ibb.co.com/xq67XbNX/c-d-x-PDX-a-82obo-unsplash.jpg",
+     "popularity": true,
+    "features": [
+      "LIGHTSPEED wireless technology",
+      "Blue VO!CE microphone",
+      "RGB lighting",
+      "Memory foam ear pads",
+      "20+ hour battery life"
+    ]
+  },
+  {
+    "title": "Sony WH-1000XM5",
+    "category": "headphone",
+    "price": 349.99,
+    "brand": "Apple",
+    "description": "Industry-leading noise canceling wireless headphones with 30 hours of battery life and touch controls.",
+    "image": "https://i.ibb.co.com/ksmkQrBY/alexunder-hess-b-WZAPKm0z-ZE-unsplash.jpg",
+     "popularity": false,
+    "features": [
+      "Active noise canceling",
+      "30-hour battery life",
+      "Quick charge (3 min = 3 hr)",
+      "Touch control panel",
+      "Speak-to-chat feature"
+    ]
+  },
+  {
+    "title": "Canon EOS R10",
+    "category": "camera",
+    "price": 999.99,
+    "brand": "Samsung",
+    "description": "Mirrorless camera with 24.2MP APS-C sensor, 4K video, and Dual Pixel AF for fast focus.",
+    "image": "https://i.ibb.co.com/VcwNX2m6/sharegrid-N10auy-EVst8-unsplash.jpg",
+     "popularity": true,
+    "features": [
+      "24.2MP APS-C sensor",
+      "4K 30fps video",
+      "Dual Pixel Autofocus",
+      "Wi-Fi & Bluetooth",
+      "Compact body"
+    ]
+  },
+  {
+    "title": "Dell 27” 4K Monitor",
+    "category": "monitor",
+    "price": 389.99,
+    "brand": "Sony",
+    "description": "27-inch UHD 4K monitor with HDR, ultra-thin bezels, and USB-C connectivity for professional use.",
+    "image": "https://i.ibb.co.com/LXMjrQcd/linus-mimietz-gvpt-Kmonylk-unsplash.jpg",
+     "popularity": false,
+    "features": [
+      "UHD 4K resolution",
+      "USB-C connectivity",
+      "HDR support",
+      "Ultra-thin bezels",
+      "Adjustable stand"
+    ]
+  },
+  {
+    "title": "HP LaserJet Pro M283fdw",
+    "category": "printer",
+    "price": 429.99,
+    "brand": "Dell",
+    "description": "All-in-one wireless color laser printer with fast print speeds and auto-duplexing.",
+    "image": "https://i.ibb.co.com/Vc6cC1Xf/mahrous-houses-5-Ao-Oejj-RUr-A-unsplash.jpg",
+     "popularity": false,
+    "features": [
+      "Color laser printing",
+      "Wireless & mobile printing",
+      "Auto-duplex printing",
+      "250-sheet input tray",
+      "Touchscreen control panel"
+    ]
+  },
+  {
+    "title": "Anker PowerPort III 65W",
+    "category": "charger",
+    "price": 39.99,
+    "brand": "HP",
+    "description": "High-speed USB-C charger with 65W output, PowerIQ 3.0, and compact design for travel.",
+    "image": "https://i.ibb.co.com/QFMP6KTq/i-m-zion-2d-Cfo-Plsr-LY-unsplash.jpg",
+     "popularity": true,
+    "features": [
+      "65W high-speed charging",
+      "USB-C output",
+      "PowerIQ 3.0 technology",
+      "Compact & travel-friendly",
+      "Universal compatibility"
+    ]
+  }
+]
